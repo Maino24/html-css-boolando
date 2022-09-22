@@ -10,9 +10,7 @@ header{
 
 .container{
     width: 80%;
-    margin: auto;
-    
-    
+    margin: auto; 
 }
 
 .container-menu{
@@ -27,11 +25,15 @@ header{
     text-align: center;
 }
 
-.container-img{
-    width: calc(100% / 3);
+.container-img-uno{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
 }
 
 .prima-img{
     display: flex;
+    height: 500px;
+    
 
 }
