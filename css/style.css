@@ -9,6 +9,7 @@ header{
     background-color: orange;
     position: fixed;
     z-index: 2;
+    top: 0px;
 }
 
 .container{
