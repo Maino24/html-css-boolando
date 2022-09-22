@@ -41,4 +41,23 @@ header{
 
 footer{
     background-color: #000000;
+    color: white;
+    
+}
+
+.fine{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.info{
+    padding-top: 10px;
+}
+
+.icone-footer{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+
 }
