@@ -25,10 +25,15 @@ header{
     text-align: center;
 }
 
+.container-grande{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
 .container-img-uno{
     display: flex;
     justify-content: space-between;
-    margin-top: 30px;
+    margin-bottom: 80px;
 }
 
 .prima-img{
