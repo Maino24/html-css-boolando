@@ -80,6 +80,26 @@ main{
     font-size: 20px;
 }
 
+.sconto-sostenibilità{
+    display: flex;
+    margin: auto;
+    position: absolute;
+    bottom: 20px;
+}
+
+.sconto{
+    background-color: red;
+    padding: 10px;
+    color: white;
+    margin-right: 5px;
+}
+
+.sostenibilità{
+    background-color: green;
+    padding: 10px;
+    color: white;
+}
+
 footer{
     background-color: #000000;
     color: white;
