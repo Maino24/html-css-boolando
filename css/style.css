@@ -22,9 +22,6 @@ header{
     justify-content: space-between;
     padding-top: 20px;
     padding-bottom: 20px;
-    
-    
- 
 }
 
 .logo{
@@ -32,63 +29,12 @@ header{
     text-align: center;
 }
 
-main{
-    margin-top: 100px;
-}
 
-.container-grande{
-    margin-top: 40px;
-    margin-bottom: 40px;
-    
-}
-
-.container-img-uno{
+.col{
     display: flex;
-    justify-content: space-between;
-    margin-bottom: 80px;
-    
-    
-}
-
-.prima-img{
-    display: flex;
-    height: 500px;
-    position: relative;
-}
-
-.cuore{
-    position: absolute;
-    top: 10px;
-    right: 0px;
-    background-color: white;
-    padding: 20px;
-    z-index: 1;
-}
-
-.sconto-sostenibilità{
-    display: flex;
-    position: absolute;
-    bottom: 40px;
-    left: 10px;
-    justify-content: space-between;
-    width: 20px;
-}
-
-.sconto{
-    background-color: red;
-    color: white;
-    padding: 5px;
-    margin-right: 10px;
-}
-
-.sostenibilità{
-    background-color: green;
-    color: white;
-    padding: 5px; 
-}
-
-.descrizione{
-    
+    margin: auto;
+    width: calc(100% / 3);
+    border: 1px solid black;
 }
 
 footer{
