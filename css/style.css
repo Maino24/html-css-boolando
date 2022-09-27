@@ -48,8 +48,21 @@ main{
 .img1{
     width: 100%;
     height: 600px;
-
 }
+
+.img1b{
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+.img1b:hover{
+    opacity: 1;
+}
+
 
 .riga-descrizione{
     display: flex;
