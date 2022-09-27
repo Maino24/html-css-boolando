@@ -39,9 +39,10 @@ main{
 }
 
 .col{
-    width: calc(100% / 3);
-    border: 1px solid black; 
-    margin: 10px;
+    width: calc(100% / 3); 
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     position: relative;
 }
 
@@ -71,8 +72,9 @@ main{
 
 .descrizione{
     width: calc(100% / 3);
-    border: 1px solid black;
-    margin: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .red{
